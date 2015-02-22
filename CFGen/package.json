@@ -1,5 +1,5 @@
 {
-    "name": "cf-calc",
+    "name": "cfgen",
     "version": "0.1.0",
     "description": "Calculates codice fiscale from input data",
     "main": "lib/calc.js",
