@@ -9,7 +9,6 @@
     },
     "dependencies": {
         "diacritics": "^1.2.1",
-        "jasmine": "^2.2.1",
         "lodash": "^3.3.0"
     },
     "keywords": [
@@ -17,8 +16,5 @@
     ],
     "scripts": {
         "test": "jasmine"
-    },
-    "devDependencies": {
-        "jasmine": "^2.2.1"
     }
 }
