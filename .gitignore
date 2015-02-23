@@ -156,3 +156,4 @@ $RECYCLE.BIN/
 .DS_Store
 CFGen/node_modules/
 CFGen/.ntvs_analysis.dat
+node_modules/
