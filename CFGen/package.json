@@ -1,20 +1,25 @@
 {
-    "name": "cfgen",
-    "version": "0.1.1",
-    "description": "Calculates codice fiscale from input data",
-    "main": "lib/calc.js",
-    "author": {
-        "name": "ihayden",
-        "email": ""
-    },
-    "dependencies": {
-        "diacritics": "^1.2.1",
-        "lodash": "^3.3.0"
-    },
-    "keywords": [
-        "codice", "fiscale"
-    ],
-    "scripts": {
-        "test": "jasmine"
-    }
+  "name": "cfgen",
+  "version": "0.1.1",
+  "description": "Calculates codice fiscale from input data",
+  "license": "Apache-2.0",
+  "main": "lib/calc.js",
+  "author": {
+    "name": "Immanuel Hayden",
+    "email": "immanuel.hayden@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankyBoy/CFGen.git"
+  },
+  "dependencies": {
+    "diacritics": "^1.2.1"
+  },
+  "keywords": [
+    "codice",
+    "fiscale"
+  ],
+  "scripts": {
+    "test": "jasmine-node spec/"
+  }
 }
